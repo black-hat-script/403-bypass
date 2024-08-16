@@ -1,8 +1,12 @@
 # 403-bypass
  command 
 
- git clone 
+ git clone https://github.com/black-hat-script/403-bypass                 
+
+ 
 chmod +x 403-bypass
+
+
 python 403-bypass
 
 
