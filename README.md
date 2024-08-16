@@ -1,5 +1,5 @@
 # 403-bypass
- command 
+ command :
 
  git clone https://github.com/black-hat-script/403-bypass                 
 
@@ -8,6 +8,17 @@ chmod +x 403-bypass
 
 
 python 403-bypass
+
+
+working :
+
+windows     and   linux
+
+
+my following 
+
+
+I can help you  : my facebook link -   https://www.facebook.com/profile.php?id=Rakesh%20Sarkar
 
 
 
